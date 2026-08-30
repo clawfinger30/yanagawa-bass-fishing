@@ -154,7 +154,9 @@
 - 特徴：コンパクトでピンスポットを撃ちやすい
 - 推奨ライン：**フロロ 12〜14lb**
 - カラー：ホワイト、ホワイトチャート、シャッド系
+
 ![Pasted image 20260829214539.png](assets/柳川/Pasted%20image%2020260829214539.png)
+
 [Amazonで確認](https://www.amazon.co.jp/s?k=OSP+ハイピッチャー+3%2F8oz)
 
 ### O.S.P ハイピッチャーMAX 3/8oz
