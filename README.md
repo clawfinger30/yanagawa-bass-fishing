@@ -12,6 +12,9 @@
 - Amazonリンクは価格・色を固定せず、商品または検索ページへの参照用
 - 柳元の好みで選んでるので、別メーカでも問題ない
 
+# ポイント
+![Pasted image 20260830110554.png](assets/柳川/Pasted%20image%2020260830110554.png)
+
 ---
 # 柳川での基本ローテーション
 
@@ -107,10 +110,8 @@
 
 - ピーナッツSR ×2（ナチュラル / チャート）
 - ハイピッチャー3/8oz ×1
-- スイングインパクト3インチ
-- ライブインパクト3インチ
-- ワッキーDS用マス針 #4
-- ダウンショットシンカー 2.7g
+- スイングインパクト3インチ＋ジグヘッド 1.8〜2.7g
+- ライブインパクト3インチ＋マス針 #4＋ダウンショットシンカー 2.7g
 - フロロ4〜6lb用タックル
 - フロロ10〜14lb用タックル
 
@@ -263,6 +264,8 @@
 
 ### KEITECH イージーシャイナー 3インチ
 
+![KEITECH イージーシャイナー](https://www.keitechusa.com/catalog/images/Easy-Shiner.jpg)
+
 **用途**：水門からの流れ、護岸沿い、中層、ベイトフィッシュを追う魚。
 
 #### ジグヘッド
@@ -293,6 +296,8 @@
 [Amazonで確認](https://www.amazon.co.jp/s?k=ケイテック+スイングインパクト+3インチ)
 
 ### KEITECH スイングインパクトFAT 3.8インチ
+
+![KEITECH スイングインパクトFAT 3.8](https://www.keitechusa.com/images/detailed/0/FS.440_cfsx-6g.jpg)
 
 **用途**：ソフトベイトで広く巻いて探す。ピーナッツとスピナーベイトの中間的な役割。
 
@@ -383,6 +388,8 @@
 
 ### DAIWA スティーズシャッド54SP SR
 
+![DAIWA スティーズシャッド 54mmモデル](https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/resources/fishing/item/lure/bass_le/steez_shad/__icsFiles/artimage/2020/12/03/c_040901060/steez_shad_P1.jpg?rev=54a12117d1b54e799050f1c48fc0b9a1)
+
 **用途**：水深1m前後の浅いクリーク。
 
 - 潜行レンジ：約1m
@@ -396,6 +403,8 @@
 
 ### Megabass POPX
 
+![Megabass POPX](https://www.megabass.co.jp/site/wp-content/uploads/2013/07/main_002_popx-1.jpg)
+
 **用途**：朝夕、超シャロー、水門前、護岸際。
 
 - 推奨ライン：**ナイロン 10〜14lb**
@@ -405,6 +414,8 @@
 [Amazonで確認](https://www.amazon.co.jp/s?k=メガバス+POPX)
 
 ### O.S.P LOUDER 60
+
+![O.S.P LOUDER 60](https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_louder60.jpg)
 
 **用途**：風・濁りがあり、POPXより強く魚を呼びたい場合。
 
