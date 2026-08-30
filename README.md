@@ -12,9 +12,6 @@
 - Amazonリンクは価格・色を固定せず、商品または検索ページへの参照用
 - 柳元の好みで選んでるので、別メーカでも問題ない
 
-# ポイント
-![Pasted image 20260830110554.png](assets/柳川/Pasted%20image%2020260830110554.png)
-
 ---
 # 柳川での基本ローテーション
 
@@ -114,6 +111,21 @@
 - ライブインパクト3インチ＋マス針 #4＋ダウンショットシンカー 2.7g
 - フロロ4〜6lb用タックル
 - フロロ10〜14lb用タックル
+
+---
+# ポイント
+![Pasted image 20260830110554.png](assets/柳川/Pasted%20image%2020260830110554.png)
+
+| 保存名                  | Google Mapsで開く                                                                                                                                                                                                                                        | 用途                                                                                                                                                            |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **01 大木町運動公園クリーク**   | [Google Mapsで開く](https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%9C%A8%E7%94%BA%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92+%E7%A6%8F%E5%B2%A1%E7%9C%8C&utm_source=chatgpt.com)                                                                  | 朝の探索基準点。公園周囲にもクリークがあります。[大木町役場](https://www.town.ooki.lg.jp/shisetsu/5/1423811948652.html?utm_source=chatgpt.com)                                             |
+| **02 松神橋**           | [Google Mapsで開く](https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E7%A5%9E%E6%A9%8B+%E6%9F%B3%E5%B7%9D%E5%B8%82+%E4%B8%89%E6%A9%8B%E7%94%BA%E4%BA%94%E6%8B%BE%E7%94%BA&utm_source=chatgpt.com)                                               | 本命候補。柳川市三橋町五拾町の橋。[Yahoo!マップ](https://map.yahoo.co.jp/v3/place/5iS2JHqw30M?utm_source=chatgpt.com)                                                             |
+| **03 岩神線塩塚川排水樋門**    | [Google Mapsで検索](https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E7%A5%9E%E7%B7%9A%E5%A1%A9%E5%A1%9A%E5%B7%9D%E6%8E%92%E6%B0%B4%E6%A8%8B%E9%96%80+%E6%9F%B3%E5%B7%9D%E5%B8%82&utm_source=chatgpt.com)                                       | 水門・流れ狙い。施設名称自体は公的資料でも確認できます。[農林水産省](https://www.maff.go.jp/kyusyu/keikaku/jigohyouka/2025/attach/pdf/2025kokuei-3.pdf?utm_source=chatgpt.com)                 |
+| **04 三橋中学校裏クリーク**    | [Google Mapsで開く](https://www.google.com/maps/search/?api=1&query=%E6%9F%B3%E5%B7%9D%E5%B8%82%E7%AB%8B%E4%B8%89%E6%A9%8B%E4%B8%AD%E5%AD%A6%E6%A0%A1&utm_source=chatgpt.com)                                                                            | 学校そのものではなく**周囲のクリークの目印**。住所は三橋町垂見580-1。[柳川市公式ウェブサイト](https://www.city.yanagawa.fukuoka.jp/kosodate/gakkou/chugakko/mitsuhashi_jh.html?utm_source=chatgpt.com) |
+| **05 川島製作所周辺クリーク**   | [Google Mapsで開く](https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80+%E6%9F%B3%E5%B7%9D%E5%B8%82+%E4%B8%89%E6%A9%8B%E7%94%BA%E6%A3%9A%E7%94%BA498-1&utm_source=chatgpt.com)                                 | 橋・護岸・水路を探すための基準点。[福岡の海苔機械＆菊花機械メーカー【株式会社川島製作所】 \|](https://kawashima-ss.co.jp/company/?utm_source=chatgpt.com)                                                 |
+| **06 JA東部CE西側クリーク**  | [Google Mapsで開く](https://www.google.com/maps/search/?api=1&query=JA%E6%9F%B3%E5%B7%9D+%E6%9D%B1%E9%83%A8%E5%9C%B0%E5%8C%BA%E3%82%AB%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%AC%E3%83%99%E3%83%BC%E3%82%BF%E3%83%BC&utm_source=chatgpt.com) | ベイト・水路接続を見る基準点。三橋町久末49・53。[JA柳川](https://www.yanagawa-fk-ja.or.jp/information/placelist?utm_source=chatgpt.com)                                               |
+| **07 ポイント柳川徳益店周辺水路** | [Google Mapsで開く](https://www.google.com/maps/search/?api=1&query=%E9%87%A3%E5%85%B7%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88+%E6%9F%B3%E5%B7%9D%E5%BE%B3%E7%9B%8A%E5%BA%97&utm_source=chatgpt.com)                                                | 店舗は**目印**。周辺の太い水路・合流を確認。[ポイント](https://www.point-i.jp/shops/1281?author_id=55&utm_source=chatgpt.com)                                                         |
+| **08 逆井手堰**          | [Google Mapsで検索](https://www.google.com/maps/search/?api=1&query=%E9%80%86%E4%BA%95%E6%89%8B%E5%A0%B0+%E6%9F%B3%E5%B7%9D%E5%B8%82+%E5%A4%A7%E5%92%8C%E7%94%BA%E5%BE%B3%E7%9B%8A&utm_source=chatgpt.com)                                               | 堰・深浅・流れの変化を見る候補。逆井手堰の存在と徳益付近であることは地域資料でも確認できます。                                                                                                               |
 
 ---
 
