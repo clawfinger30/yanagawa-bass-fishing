@@ -48,6 +48,14 @@
 
 **HIGH PITCHER 3/8oz → HP Shadtail 3.1＋ジグヘッド → DoLive Crawler 3.5＋ワッキーDS → 移動**
 
+**メーカー公式写真（ローテーション順）**
+
+<p>
+<a href="https://www.o-s-p.net/products/high-pitcher/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_highpitcher1.jpg" alt="O.S.P HIGH PITCHER" width="150"></a>
+<a href="https://www.o-s-p.net/products/hp-shadtail/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_hpshadtail.jpg" alt="O.S.P HP Shadtail" width="150"></a>
+<a href="https://www.o-s-p.net/products/dolivecrawler/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_dolivecrawler2.jpg" alt="O.S.P DoLive Crawler" width="150"></a>
+</p>
+
 - **強い巻き**：HIGH PITCHER 3/8oz
 - **弱い巻き**：HP Shadtail 3.1＋ジグヘッド1.8〜2.7g
 - **フィネス**：DoLive Crawler 3.5＋マス針#4＋DSシンカー2.7g
@@ -56,6 +64,16 @@
 ### 約10,000円パターン
 
 **HIGH PITCHER → BLITZ → HP Shadtail → DoLive Beaverフリーリグ → DoLive CrawlerワッキーDS → 移動**
+
+**メーカー公式写真（ローテーション順）**
+
+<p>
+<a href="https://www.o-s-p.net/products/high-pitcher/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_highpitcher1.jpg" alt="O.S.P HIGH PITCHER" width="135"></a>
+<a href="https://www.o-s-p.net/products/blitz/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_blitz.jpg" alt="O.S.P BLITZ" width="135"></a>
+<a href="https://www.o-s-p.net/products/hp-shadtail/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_hpshadtail.jpg" alt="O.S.P HP Shadtail" width="135"></a>
+<a href="https://www.o-s-p.net/products/dolivebeaver/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/dolivebeaver_main.jpg" alt="O.S.P DoLive Beaver" width="135"></a>
+<a href="https://www.o-s-p.net/products/dolivecrawler/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_dolivecrawler2.jpg" alt="O.S.P DoLive Crawler" width="135"></a>
+</p>
 
 - 5,000円構成をすべて使用
 - **シャロークランク**：BLITZを追加
@@ -66,6 +84,16 @@
 ### 約15,000円パターン
 
 **10,000円ローテーションを基本にし、状況に合わせて色を変える。リグ種類は増やさない。**
+
+**メーカー公式写真（ローテーション順）**
+
+<p>
+<a href="https://www.o-s-p.net/products/high-pitcher/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_highpitcher1.jpg" alt="O.S.P HIGH PITCHER" width="135"></a>
+<a href="https://www.o-s-p.net/products/blitz/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_blitz.jpg" alt="O.S.P BLITZ" width="135"></a>
+<a href="https://www.o-s-p.net/products/hp-shadtail/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_hpshadtail.jpg" alt="O.S.P HP Shadtail" width="135"></a>
+<a href="https://www.o-s-p.net/products/dolivebeaver/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/dolivebeaver_main.jpg" alt="O.S.P DoLive Beaver" width="135"></a>
+<a href="https://www.o-s-p.net/products/dolivecrawler/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_dolivecrawler2.jpg" alt="O.S.P DoLive Crawler" width="135"></a>
+</p>
 
 - HIGH PITCHER：ナチュラル系＋強アピール系
 - BLITZ：ナチュラル系＋チャート系
@@ -82,6 +110,15 @@
 
 **STEEZ Spinnerbait 3/8oz → PEANUT SR → STEEZ STIRRING SHAD 2.8＋ジグヘッド → STEEZ FINESSE STRAIGHT 4.3＋ワッキーDS → 移動**
 
+**メーカー公式写真（ローテーション順）**
+
+<p>
+<a href="https://www.daiwa.com/jp/product/st35v1t"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/resources/fishing/item/lure/bass_le/steez_sb/tsuika_st35v1t/STEEZ_SPINNER_BAIT_38OZ_TW_SILVER_WHITE.jpg?rev=adc58f5745994019858fa646d90eee8e" alt="DAIWA STEEZ Spinnerbait" width="140"></a>
+<a href="https://www.daiwa.com/jp/product/op4em6r"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/resources/fishing/item/lure/bass_le/peanut/__icsFiles/afieldfile/2022/02/07/Peanut_SR_SexyShad.jpg?rev=1344e34b208947b8abbe33685a8b3054" alt="DAIWA PEANUT SR" width="140"></a>
+<a href="https://www.daiwa.com/jp/product/2023/05/09/08/16/ahsnwur"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/resources/fishing/item/lure/bass_le/steez_stirring_shad/__icsFiles/afieldfile/2022/12/07/SteezStirringShad_28_MagicShad.jpg?rev=e9eadcbf09a44d7da074e3ac13c6465e" alt="DAIWA STEEZ STIRRING SHAD" width="140"></a>
+<a href="https://www.daiwa.com/jp/product/kdqc8dj"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/001_product_photo/lure/002/kdqc8dj_STEEZ-FINESSE-STRAIGHT/STEEZ_FINESSE_STRAIGHT_4%2C-d-%2C3_GREEN_PUMPKIN_4550133559884.jpg?rev=8dcbe960f91b4c309353a9ec9a6c77a3" alt="DAIWA STEEZ FINESSE STRAIGHT" width="140"></a>
+</p>
+
 - **強い巻き**：STEEZ Spinnerbait 3/8oz
 - **シャローサーチ**：PEANUT SR
 - **弱い巻き**：STEEZ STIRRING SHAD 2.8＋ジグヘッド1.8〜2.7g
@@ -92,6 +129,17 @@
 
 **STEEZ Spinnerbait / COVER CHATTER → PEANUT SR → STEEZ SILENT SHAD 54SP SR → STIRRING SHAD → FINESSE STRAIGHTワッキーDS → 移動**
 
+**メーカー公式写真（ローテーション順）**
+
+<p>
+<a href="https://www.daiwa.com/jp/product/st35v1t"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/resources/fishing/item/lure/bass_le/steez_sb/tsuika_st35v1t/STEEZ_SPINNER_BAIT_38OZ_TW_SILVER_WHITE.jpg?rev=adc58f5745994019858fa646d90eee8e" alt="DAIWA STEEZ Spinnerbait" width="115"></a>
+<a href="https://www.daiwa.com/jp/product/i9wqiap"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/001_product_photo/lure/002/i9wqiap_STEEZ_COVER_CHATTER/25STEEZ_COVER_CHATTER_3-8_BLACK_4550133578205.jpg?rev=ad3882c9540f450e80804569afb930ac" alt="DAIWA STEEZ COVER CHATTER" width="115"></a>
+<a href="https://www.daiwa.com/jp/product/op4em6r"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/resources/fishing/item/lure/bass_le/peanut/__icsFiles/afieldfile/2022/02/07/Peanut_SR_SexyShad.jpg?rev=1344e34b208947b8abbe33685a8b3054" alt="DAIWA PEANUT SR" width="115"></a>
+<a href="https://www.daiwa.com/jp/product/4zpn4vq"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/001_product_photo/lure/001/4zpn4vq_STEEZ-SILENT-SHAD/main/STEEZ_SILENT_SHAD_54SP_SR_AKABANE_SHAD_4550133404993.jpg?rev=c7acd0eccfa9401fb5f8dbaa044b2d57" alt="DAIWA STEEZ SILENT SHAD 54SP SR" width="115"></a>
+<a href="https://www.daiwa.com/jp/product/2023/05/09/08/16/ahsnwur"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/resources/fishing/item/lure/bass_le/steez_stirring_shad/__icsFiles/afieldfile/2022/12/07/SteezStirringShad_28_MagicShad.jpg?rev=e9eadcbf09a44d7da074e3ac13c6465e" alt="DAIWA STEEZ STIRRING SHAD" width="115"></a>
+<a href="https://www.daiwa.com/jp/product/kdqc8dj"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/001_product_photo/lure/002/kdqc8dj_STEEZ-FINESSE-STRAIGHT/STEEZ_FINESSE_STRAIGHT_4%2C-d-%2C3_GREEN_PUMPKIN_4550133559884.jpg?rev=8dcbe960f91b4c309353a9ec9a6c77a3" alt="DAIWA STEEZ FINESSE STRAIGHT" width="115"></a>
+</p>
+
 - 5,000円構成をすべて使用
 - **強めの巻き**：STEEZ COVER CHATTER 3/8ozを追加
 - **弱いハードベイト**：STEEZ SILENT SHAD 54SP SRを追加
@@ -99,6 +147,18 @@
 - 新しいワーム用リグは増やさない
 
 ### 約15,000円パターン
+
+**STEEZ Spinnerbait → PEANUT SR / DR → STEEZ SILENT SHAD 54SP SR / MR → STIRRING SHAD 2.8 / 3.3 → FINESSE STRAIGHT 4.3 → 移動**
+
+**メーカー公式写真（ローテーション順）**
+
+<p>
+<a href="https://www.daiwa.com/jp/product/st35v1t"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/resources/fishing/item/lure/bass_le/steez_sb/tsuika_st35v1t/STEEZ_SPINNER_BAIT_38OZ_TW_SILVER_WHITE.jpg?rev=adc58f5745994019858fa646d90eee8e" alt="DAIWA STEEZ Spinnerbait" width="135"></a>
+<a href="https://www.daiwa.com/jp/product/op4em6r"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/resources/fishing/item/lure/bass_le/peanut/__icsFiles/afieldfile/2022/02/07/Peanut_SR_SexyShad.jpg?rev=1344e34b208947b8abbe33685a8b3054" alt="DAIWA PEANUT SR/DR" width="135"></a>
+<a href="https://www.daiwa.com/jp/product/4zpn4vq"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/001_product_photo/lure/001/4zpn4vq_STEEZ-SILENT-SHAD/main/STEEZ_SILENT_SHAD_54SP_SR_AKABANE_SHAD_4550133404993.jpg?rev=c7acd0eccfa9401fb5f8dbaa044b2d57" alt="DAIWA STEEZ SILENT SHAD SR/MR" width="135"></a>
+<a href="https://www.daiwa.com/jp/product/2023/05/09/08/16/ahsnwur"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/resources/fishing/item/lure/bass_le/steez_stirring_shad/__icsFiles/afieldfile/2022/12/07/SteezStirringShad_28_MagicShad.jpg?rev=e9eadcbf09a44d7da074e3ac13c6465e" alt="DAIWA STEEZ STIRRING SHAD" width="135"></a>
+<a href="https://www.daiwa.com/jp/product/kdqc8dj"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/001_product_photo/lure/002/kdqc8dj_STEEZ-FINESSE-STRAIGHT/STEEZ_FINESSE_STRAIGHT_4%2C-d-%2C3_GREEN_PUMPKIN_4550133559884.jpg?rev=8dcbe960f91b4c309353a9ec9a6c77a3" alt="DAIWA STEEZ FINESSE STRAIGHT" width="135"></a>
+</p>
 
 水深で巻物を分ける。
 
@@ -117,6 +177,14 @@
 
 **Swing Impact FAT 3.8＋ウェイテッドフック → Easy Shiner 3＋ジグヘッド → Live Impact 3＋ワッキーDS → 移動**
 
+**メーカー公式写真（ローテーション順）**
+
+<p>
+<a href="https://www.keitechusa.com/catalog/fat-swing-impact.html"><img src="https://www.keitechusa.com/catalog/images/Fat-Swing-Impact.jpg" alt="KEITECH Swing Impact FAT" width="150"></a>
+<a href="https://www.keitechusa.com/catalog/easy-shiner.html"><img src="https://www.keitechusa.com/catalog/images/Easy-Shiner.jpg" alt="KEITECH Easy Shiner" width="150"></a>
+<a href="https://www.keitechusa.com/catalog/live-impact.html"><img src="https://www.keitechusa.com/catalog/images/Live-Impact.jpg" alt="KEITECH Live Impact" width="150"></a>
+</p>
+
 - **KEITECH内での強い巻き**：Swing Impact FAT 3.8＋ウェイテッドオフセット #2/0、1.8〜3.5g
 - **弱い巻き**：Easy Shiner 3＋ジグヘッド1.8〜2.7g
 - **フィネス**：Live Impact 3＋マス針#4＋DSシンカー2.7g
@@ -127,6 +195,16 @@
 
 **Swing Impact FAT 3.8 → Easy Shiner 3 / Swing Impact 3 → Crazy Flapper 2.8フリーリグ → Live Impact 3ワッキーDS → 移動**
 
+**メーカー公式写真（ローテーション順）**
+
+<p>
+<a href="https://www.keitechusa.com/catalog/fat-swing-impact.html"><img src="https://www.keitechusa.com/catalog/images/Fat-Swing-Impact.jpg" alt="KEITECH Swing Impact FAT" width="135"></a>
+<a href="https://www.keitechusa.com/catalog/easy-shiner.html"><img src="https://www.keitechusa.com/catalog/images/Easy-Shiner.jpg" alt="KEITECH Easy Shiner" width="135"></a>
+<a href="https://www.keitechusa.com/catalog/swing-impact.html"><img src="https://www.keitechusa.com/catalog/images/Swing-Impact.jpg" alt="KEITECH Swing Impact" width="135"></a>
+<a href="https://www.keitechusa.com/catalog/crazy-flapper.html"><img src="https://www.keitechusa.com/catalog/images/Crazy-Flapper.jpg" alt="KEITECH Crazy Flapper" width="135"></a>
+<a href="https://www.keitechusa.com/catalog/live-impact.html"><img src="https://www.keitechusa.com/catalog/images/Live-Impact.jpg" alt="KEITECH Live Impact" width="135"></a>
+</p>
+
 - 5,000円構成をすべて使用
 - **弱い巻きの選択肢**：Swing Impact 3を追加
 - **カバー・ボトム**：Crazy Flapper 2.8＋フリーリグを追加
@@ -136,7 +214,17 @@
 
 ### 約15,000円パターン
 
-**10,000円ローテーションを基本にし、FATのサイズ差・カラー差・予備を増やす。新しいリグは増やさない。**
+**Swing Impact FAT 3.8 / 3.3 → Easy Shiner 3 / Swing Impact 3 → Crazy Flapper 2.8フリーリグ → Live Impact 3ワッキーDS → 移動**
+
+**メーカー公式写真（ローテーション順）**
+
+<p>
+<a href="https://www.keitechusa.com/catalog/fat-swing-impact.html"><img src="https://www.keitechusa.com/catalog/images/Fat-Swing-Impact.jpg" alt="KEITECH Swing Impact FAT" width="135"></a>
+<a href="https://www.keitechusa.com/catalog/easy-shiner.html"><img src="https://www.keitechusa.com/catalog/images/Easy-Shiner.jpg" alt="KEITECH Easy Shiner" width="135"></a>
+<a href="https://www.keitechusa.com/catalog/swing-impact.html"><img src="https://www.keitechusa.com/catalog/images/Swing-Impact.jpg" alt="KEITECH Swing Impact" width="135"></a>
+<a href="https://www.keitechusa.com/catalog/crazy-flapper.html"><img src="https://www.keitechusa.com/catalog/images/Crazy-Flapper.jpg" alt="KEITECH Crazy Flapper" width="135"></a>
+<a href="https://www.keitechusa.com/catalog/live-impact.html"><img src="https://www.keitechusa.com/catalog/images/Live-Impact.jpg" alt="KEITECH Live Impact" width="135"></a>
+</p>
 
 - Swing Impact FAT 3.8：ナチュラル系＋強アピール系
 - Swing Impact FAT 3.3：サイズ違いとして追加。オフセット #1/0目安
@@ -160,6 +248,14 @@
 
 **HIGH PITCHER 3/8oz → Easy Shiner 3＋ジグヘッド → Live Impact 3＋ワッキーDS → 移動**
 
+**メーカー公式写真（ローテーション順）**
+
+<p>
+<a href="https://www.o-s-p.net/products/high-pitcher/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_highpitcher1.jpg" alt="O.S.P HIGH PITCHER" width="150"></a>
+<a href="https://www.keitechusa.com/catalog/easy-shiner.html"><img src="https://www.keitechusa.com/catalog/images/Easy-Shiner.jpg" alt="KEITECH Easy Shiner" width="150"></a>
+<a href="https://www.keitechusa.com/catalog/live-impact.html"><img src="https://www.keitechusa.com/catalog/images/Live-Impact.jpg" alt="KEITECH Live Impact" width="150"></a>
+</p>
+
 - **強い巻き**：O.S.P HIGH PITCHER 3/8oz
 - **弱い巻き**：KEITECH Easy Shiner 3＋ジグヘッド1.8〜2.7g
 - **フィネス**：KEITECH Live Impact 3＋マス針#4＋DSシンカー2.7g
@@ -169,6 +265,17 @@
 ### 約10,000円パターン【本命】
 
 **HIGH PITCHER → PEANUT SR → STEEZ SILENT SHAD 54SP SR → Easy Shiner 3 → Crazy Flapper 2.8フリーリグ → Live Impact 3ワッキーDS → 移動**
+
+**メーカー公式写真（ローテーション順）**
+
+<p>
+<a href="https://www.o-s-p.net/products/high-pitcher/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_highpitcher1.jpg" alt="O.S.P HIGH PITCHER" width="115"></a>
+<a href="https://www.daiwa.com/jp/product/op4em6r"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/resources/fishing/item/lure/bass_le/peanut/__icsFiles/afieldfile/2022/02/07/Peanut_SR_SexyShad.jpg?rev=1344e34b208947b8abbe33685a8b3054" alt="DAIWA PEANUT SR" width="115"></a>
+<a href="https://www.daiwa.com/jp/product/4zpn4vq"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/001_product_photo/lure/001/4zpn4vq_STEEZ-SILENT-SHAD/main/STEEZ_SILENT_SHAD_54SP_SR_AKABANE_SHAD_4550133404993.jpg?rev=c7acd0eccfa9401fb5f8dbaa044b2d57" alt="DAIWA STEEZ SILENT SHAD 54SP SR" width="115"></a>
+<a href="https://www.keitechusa.com/catalog/easy-shiner.html"><img src="https://www.keitechusa.com/catalog/images/Easy-Shiner.jpg" alt="KEITECH Easy Shiner" width="115"></a>
+<a href="https://www.keitechusa.com/catalog/crazy-flapper.html"><img src="https://www.keitechusa.com/catalog/images/Crazy-Flapper.jpg" alt="KEITECH Crazy Flapper" width="115"></a>
+<a href="https://www.keitechusa.com/catalog/live-impact.html"><img src="https://www.keitechusa.com/catalog/images/Live-Impact.jpg" alt="KEITECH Live Impact" width="115"></a>
+</p>
 
 - **強い巻き**：O.S.P HIGH PITCHER 3/8oz
 - **シャローサーチ**：DAIWA PEANUT SR
@@ -180,7 +287,20 @@
 
 ### 約15,000円パターン
 
-**10,000円構成 → BLITZ / Swing Impact FAT 3.8 / SILENT SHAD MRを状況で追加。**
+**HIGH PITCHER → BLITZ / PEANUT SR → STEEZ SILENT SHAD 54SP SR / MR → Swing Impact FAT 3.8 / Easy Shiner 3 → Crazy Flapper 2.8フリーリグ → Live Impact 3ワッキーDS → 移動**
+
+**メーカー公式写真（ローテーション順）**
+
+<p>
+<a href="https://www.o-s-p.net/products/high-pitcher/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_highpitcher1.jpg" alt="O.S.P HIGH PITCHER" width="100"></a>
+<a href="https://www.o-s-p.net/products/blitz/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_blitz.jpg" alt="O.S.P BLITZ" width="100"></a>
+<a href="https://www.daiwa.com/jp/product/op4em6r"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/resources/fishing/item/lure/bass_le/peanut/__icsFiles/afieldfile/2022/02/07/Peanut_SR_SexyShad.jpg?rev=1344e34b208947b8abbe33685a8b3054" alt="DAIWA PEANUT SR" width="100"></a>
+<a href="https://www.daiwa.com/jp/product/4zpn4vq"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/001_product_photo/lure/001/4zpn4vq_STEEZ-SILENT-SHAD/main/STEEZ_SILENT_SHAD_54SP_SR_AKABANE_SHAD_4550133404993.jpg?rev=c7acd0eccfa9401fb5f8dbaa044b2d57" alt="DAIWA STEEZ SILENT SHAD SR/MR" width="100"></a>
+<a href="https://www.keitechusa.com/catalog/fat-swing-impact.html"><img src="https://www.keitechusa.com/catalog/images/Fat-Swing-Impact.jpg" alt="KEITECH Swing Impact FAT" width="100"></a>
+<a href="https://www.keitechusa.com/catalog/easy-shiner.html"><img src="https://www.keitechusa.com/catalog/images/Easy-Shiner.jpg" alt="KEITECH Easy Shiner" width="100"></a>
+<a href="https://www.keitechusa.com/catalog/crazy-flapper.html"><img src="https://www.keitechusa.com/catalog/images/Crazy-Flapper.jpg" alt="KEITECH Crazy Flapper" width="100"></a>
+<a href="https://www.keitechusa.com/catalog/live-impact.html"><img src="https://www.keitechusa.com/catalog/images/Live-Impact.jpg" alt="KEITECH Live Impact" width="100"></a>
+</p>
 
 - **シャロークランク強化**：O.S.P BLITZ
 - **強いソフトベイト**：KEITECH Swing Impact FAT 3.8＋ウェイテッドフック #2/0、1.8〜3.5g
