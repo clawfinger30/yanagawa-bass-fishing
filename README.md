@@ -12,7 +12,7 @@
 - 色は固定せず、**ナチュラル系＋チャート/強アピール系**を用意する
 - 購入前に可能なら釣具店で実物を確認する
 - Amazonリンクは価格・色を固定せず、商品または検索ページへの参照用
-- ルアー本体は **O.S.P縛り / DAIWA縛り / KEITECH縛り** のいずれかで組み、小物類はメーカーを固定しない
+- ルアー本体は **O.S.P縛り / DAIWA縛り / KEITECH縛り / 3メーカー混成最強** の4パターンから選び、小物類はメーカーを固定しない
 
 ---
 
@@ -148,6 +148,50 @@
 
 ---
 
+## 3メーカー混成最強【今回の柳川向け推奨】
+
+メーカーごとの得意分野を使い分ける。
+
+- **O.S.P**：強い巻き
+- **DAIWA**：シャロー〜中層のハードベイト
+- **KEITECH**：弱い巻き、カバー、フィネス
+
+### 約5,000円パターン
+
+**HIGH PITCHER 3/8oz → Easy Shiner 3＋ジグヘッド → Live Impact 3＋ワッキーDS → 移動**
+
+- **強い巻き**：O.S.P HIGH PITCHER 3/8oz
+- **弱い巻き**：KEITECH Easy Shiner 3＋ジグヘッド1.8〜2.7g
+- **フィネス**：KEITECH Live Impact 3＋マス針#4＋DSシンカー2.7g
+- **DAIWA PEANUT SR**：予算に余裕がある場合の最優先追加候補
+- リグはジグヘッドとワッキーDSだけで開始
+
+### 約10,000円パターン【本命】
+
+**HIGH PITCHER → PEANUT SR → STEEZ SILENT SHAD 54SP SR → Easy Shiner 3 → Crazy Flapper 2.8フリーリグ → Live Impact 3ワッキーDS → 移動**
+
+- **強い巻き**：O.S.P HIGH PITCHER 3/8oz
+- **シャローサーチ**：DAIWA PEANUT SR
+- **弱いハードベイト**：DAIWA STEEZ SILENT SHAD 54SP SR
+- **弱いソフトベイト**：KEITECH Easy Shiner 3＋ジグヘッド
+- **カバー・ボトム**：KEITECH Crazy Flapper 2.8＋フリーリグ3.5〜5g
+- **最後の食わせ**：KEITECH Live Impact 3＋ワッキーDS
+- HIGH PITCHERは予備または色違いを1個追加しても約1万円に収めやすい
+
+### 約15,000円パターン
+
+**10,000円構成 → BLITZ / Swing Impact FAT 3.8 / SILENT SHAD MRを状況で追加。**
+
+- **シャロークランク強化**：O.S.P BLITZ
+- **強いソフトベイト**：KEITECH Swing Impact FAT 3.8＋ウェイテッドフック #2/0、1.8〜3.5g
+- **1〜2mレンジ追加**：DAIWA STEEZ SILENT SHAD 54SP MR
+- **予備**：HIGH PITCHER、Easy Shiner、Live Impact、ジグヘッド、マス針、DSシンカー
+- 新しいフィネスリグを増やさず、**強い巻き・レンジ・カバー・フィネスを1セットで完成**させる
+
+> **今回の第一推奨は混成10,000円パターン。** ルアーを増やしすぎず、O.S.Pのスピナーベイト、DAIWAのハードベイト、KEITECHのワームという役割分担が最も明確。
+
+---
+
 # リグ一覧
 
 ## ハードルアー・巻物
@@ -159,18 +203,21 @@
 - **O.S.P**：HIGH PITCHER 3/8oz
 - **DAIWA**：STEEZ Spinnerbait 3/8oz、PEANUT SR
 - **KEITECH**：ハードルアーなし。Swing Impact FAT 3.8＋ウェイテッドフックを巻物代替にする
+- **混成最強**：HIGH PITCHER 3/8ozを主軸。PEANUT SRは予算に余裕があれば追加
 
 ### 約10,000円から追加
 
 - **O.S.P**：BLITZ
 - **DAIWA**：STEEZ COVER CHATTER 3/8oz、STEEZ SILENT SHAD 54SP SR
 - **KEITECH**：ハードルアーは追加せず、Crazy Flapper 2.8のフリーリグを追加
+- **混成最強**：PEANUT SR、STEEZ SILENT SHAD 54SP SRを追加
 
 ### 約15,000円から追加
 
 - **O.S.P**：新しい種類を増やさず、HIGH PITCHER / BLITZの色違い・予備
 - **DAIWA**：PEANUT DR、STEEZ SILENT SHAD 54SP MRを追加してレンジを広げる
 - **KEITECH**：FAT 3.3 / 3.8のサイズ・色違いを追加
+- **混成最強**：BLITZ、Swing Impact FAT 3.8、STEEZ SILENT SHAD 54SP MRを追加
 
 ---
 
@@ -180,7 +227,7 @@
 
 - **O.S.P**：HP Shadtail 3.1
 - **DAIWA**：STEEZ STIRRING SHAD 2.8 / 3.3
-- **KEITECH**：Easy Shiner 3 / Swing Impact 3
+- **KEITECH / 混成最強**：Easy Shiner 3 / Swing Impact 3
 - **ジグヘッド**：1.8〜2.7g基本
 - **予備ウェイト**：1.3g / 3.5g
 - **ライン**：フロロ4〜6lb
@@ -192,7 +239,7 @@
 
 - **O.S.P**：DoLive Crawler 3.5
 - **DAIWA**：STEEZ FINESSE STRAIGHT 4.3
-- **KEITECH**：Live Impact 3
+- **KEITECH / 混成最強**：Live Impact 3
 - **フック**：マス針 #4を基本
 - **シンカー**：ダウンショットシンカー2.7g基本
 - **フック〜シンカー**：50〜70cm目安
@@ -202,10 +249,10 @@
 - **ワッキー掛け**：ワーム中央付近をマス針で横切るように掛ける
 - **使い方**：先行者が入った水門、杭、護岸、見えバス。最後の食わせ
 
-### 3. フリーリグ【O.S.P / KEITECH 10,000円以上で追加】
+### 3. フリーリグ【O.S.P / KEITECH / 混成最強 10,000円以上で追加】
 
 - **O.S.P**：DoLive Beaver 3.5＋オフセット #1/0〜#2/0目安
-- **KEITECH**：Crazy Flapper 2.8＋オフセット #1目安
+- **KEITECH / 混成最強**：Crazy Flapper 2.8＋オフセット #1目安
 - **シンカー**：アイ付きフリーリグシンカー3.5〜5g基本
 - **ライン**：フロロ10〜14lb
 - **接続順**：ライン → アイ付きフリーリグシンカーのアイを通す → オフセットフックへ結ぶ
@@ -213,7 +260,7 @@
 - **セット方法**：オフセットフックをワームへ正しくセットし、ワームを曲げない
 - **使い方**：浮きゴミ、杭、水門、護岸変化、カバー、ボトム
 
-### 4. ウェイテッドフックリグ【KEITECH 5,000円から必須】
+### 4. ウェイテッドフックリグ【KEITECH 5,000円 / 混成最強15,000円で使用】
 
 - **ワーム**：Swing Impact FAT 3.8
 - **フック**：ウェイテッドオフセット #2/0目安
@@ -221,8 +268,8 @@
 - **ライン**：フロロ10〜14lb
 - **接続**：ラインをフックアイへ直接結ぶ
 - **セット方法**：鼻先をオフセット部へ正しく固定し、フックポイントは背中側へ抜く。ワームを曲げない
-- **使い方**：中層〜やや深めを広く巻く。KEITECH縛りの最初のサーチ役
-- **15,000円構成**：FAT 3.3を使う場合はオフセット #1/0目安
+- **使い方**：中層〜やや深めを広く巻く
+- **KEITECH 15,000円構成**：FAT 3.3を使う場合はオフセット #1/0目安
 
 ---
 
@@ -257,15 +304,15 @@
 
 ## 約5,000円構成で購入
 
-O.S.P / DAIWA / KEITECH共通。
+O.S.P / DAIWA / KEITECH / 混成最強で共通して使う基本小物。
 
 - **ジグヘッド 1.8〜2.7g**：弱い巻き用
 - **マス針 #4**：ワッキーDS用
 - **DSシンカー 2.7g**：ワッキーDS用
 
-### O.S.P / DAIWAのみ
+### O.S.P / DAIWA / 混成最強
 
-- **スナップ**：クランク・シャッド用。サイズはルアーとのバランスを見て選ぶ
+- **スナップ**：クランク・シャッドを使う場合。サイズはルアーとのバランスを見て選ぶ
 
 ### KEITECHのみ
 
@@ -283,7 +330,7 @@ O.S.P / DAIWA / KEITECH共通。
 - ワーム用の新しいリグ用品は基本追加不要
 - ジグヘッド、マス針、DSシンカーの予備を優先
 
-### KEITECH
+### KEITECH / 混成最強
 
 - **オフセットフック #1**：Crazy Flapper 2.8用
 - **アイ付きフリーリグシンカー3.5〜5g**：フリーリグ用
@@ -291,7 +338,7 @@ O.S.P / DAIWA / KEITECH共通。
 
 ## 約15,000円構成で追加
 
-新しいリグを増やすより消耗品の予備を優先する。
+新しいフィネスリグを増やすより、レンジ追加と消耗品の予備を優先する。
 
 - ジグヘッド：1.8 / 2.7gの予備
 - 必要なら1.3 / 3.5gを追加
@@ -300,6 +347,7 @@ O.S.P / DAIWA / KEITECH共通。
 - マス針#4の予備
 - O.S.P構成ではオフセットフック、フリーリグシンカーの予備
 - KEITECH構成ではウェイテッド #2/0の予備、FAT 3.3用 #1/0、オフセット #1、フリーリグシンカーの予備
+- **混成最強**ではSwing Impact FAT 3.8用ウェイテッド #2/0を追加
 
 ## 任意
 
@@ -502,6 +550,67 @@ O.S.P / DAIWA / KEITECH共通。
   [Amazonで確認](https://www.amazon.co.jp/s?k=ケイテック+ライブインパクト+3インチ)
 - **フック・シンカー類の予備**：約700〜1,000円
 - **総額目安：約14,000〜15,000円**
+
+---
+
+## 3メーカー混成最強【今回の柳川向け推奨】
+
+### 約5,000円パターン
+
+- **強い巻き：O.S.P HIGH PITCHER 3/8oz ×1** — 約1,430円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=OSP+ハイピッチャー+3%2F8oz)
+- **弱い巻き：KEITECH Easy Shiner 3 ×1袋** — 約600〜800円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ケイテック+イージーシャイナー+3インチ)
+- **フィネス：KEITECH Live Impact 3 ×1袋** — 約600〜800円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ケイテック+ライブインパクト+3インチ)
+- **ジグヘッド：1.8〜2.7g ×1袋** — 約500円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=バス+ジグヘッド+1.8g+2.7g)
+- **マス針：#4 ×1袋** — 約350円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=バス+マス針+4)
+- **DSシンカー：2.7g ×1袋** — 約450円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダウンショットシンカー+2.7g)
+- **合計目安：約3,930〜4,330円**
+- 予算に余裕があれば **DAIWA PEANUT SR** を最優先で追加  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダイワ+ピーナッツ+SR)
+
+**使う順番：HIGH PITCHER → Easy Shiner → Live Impact → 移動**
+
+### 約10,000円パターン【本命】
+
+5,000円構成に追加する。
+
+- **シャローサーチ：DAIWA PEANUT SR ×1** — 約935円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダイワ+ピーナッツ+SR)
+- **弱いハードベイト：DAIWA STEEZ SILENT SHAD 54SP SR ×1** — 約1,540円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダイワ+STEEZ+サイレントシャッド+54SP+SR)
+- **カバー・ボトム：KEITECH Crazy Flapper 2.8 ×1袋** — 約600〜800円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ケイテック+クレイジーフラッパー+2.8)
+- **オフセットフック #1 ×1袋** — 約350〜500円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=オフセットフック+1+バス)
+- **フリーリグシンカー3.5〜5g ×1袋** — 約500円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=フリーリグシンカー+3.5g+5g)
+- **HIGH PITCHER予備または色違い ×1** — 約1,430円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=OSP+ハイピッチャー+3%2F8oz)
+- **総額目安：約9,300〜9,900円**
+
+**使う順番：HIGH PITCHER → PEANUT SR → SILENT SHAD SR → Easy Shiner → Crazy Flapper → Live Impact → 移動**
+
+### 約15,000円パターン
+
+10,000円構成に追加する。
+
+- **シャロークランク強化：O.S.P BLITZ ×1** — 約1,870円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=OSP+BLITZ+ブリッツ)
+- **強いソフトベイト：KEITECH Swing Impact FAT 3.8 ×1袋** — 約700〜900円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ケイテック+スイングインパクトFAT+3.8)
+- **ウェイテッドオフセット #2/0、1.8〜3.5g ×1袋** — 約500〜700円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ウェイテッド+オフセットフック+2%2F0+1.8g+3.5g)
+- **1〜2mレンジ：DAIWA STEEZ SILENT SHAD 54SP MR ×1** — 約1,540円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダイワ+STEEZ+サイレントシャッド+54SP+MR)
+- **ジグヘッド・マス針・DSシンカー予備**：約700〜1,000円
+- **総額目安：約14,600〜15,900円**
+
+**使う順番：HIGH PITCHER → BLITZ / PEANUT → SILENT SHAD SR/MR → FAT 3.8 / Easy Shiner → Crazy Flapper → Live Impact**
 
 ---
 
