@@ -226,6 +226,120 @@
 
 ---
 
+# 予算別・メーカー縛りセット
+
+10月初旬の柳川を想定し、**強い巻き → 弱い巻き → フィネス**を基本に組む。価格は購入時に変動するため目安。Amazonリンクは商品検索用。
+
+## O.S.P縛り
+
+### 約5,000円パターン
+
+- **強い巻き：HIGH PITCHER 3/8oz ×1** — 約1,430円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=OSP+ハイピッチャー+3%2F8oz)
+- **弱い巻き：HP Shadtail 3.1 ×1袋** — 約858円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=OSP+HPシャッドテール+3.1)
+- **フィネス：DoLive Crawler 3.5 ×1袋** — 約858円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=OSP+ドライブクローラー+3.5)
+- **ジグヘッド：1.8〜2.7g ×1袋** — 約500円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=バス+ジグヘッド+1.8g+2.7g)
+- **マス針：#4 ×1袋** — 約350円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=バス+マス針+4)
+- **DSシンカー：2.7g ×1袋** — 約450円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダウンショットシンカー+2.7g)
+- **合計目安：約4,450円**
+
+**使う順番：HIGH PITCHER → HP Shadtail → DoLive Crawler**
+
+### 約10,000円パターン
+
+5,000円構成に追加する。
+
+- **シャロークランク：BLITZ ×1** — 約1,870円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=OSP+BLITZ+ブリッツ)
+- **強い巻き予備：HIGH PITCHER 3/8oz ×1追加** — 約1,430円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=OSP+ハイピッチャー+3%2F8oz)
+- **カバー・ボトム：DoLive Beaver 3.5 ×1袋** — 約858円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=OSP+ドライブビーバー+3.5)
+- **オフセットフック ×1袋** — 約400円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=バス+オフセットフック+1%2F0+2%2F0)
+- **フリーリグシンカー：3.5〜5g ×1袋** — 約500円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=フリーリグシンカー+3.5g+5g)
+- **総額目安：約9,500円前後**
+
+**使う順番：HIGH PITCHER → BLITZ → HP Shadtail → DoLive Beaver → DoLive Crawler**
+
+### 約15,000円パターン
+
+10,000円構成に追加し、種類よりも**色違い・ロスト対策**を優先する。
+
+- **HP Shadtail 3.1 ×1袋追加** — 約858円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=OSP+HPシャッドテール+3.1)
+- **DoLive Crawler 3.5 ×1袋追加** — 約858円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=OSP+ドライブクローラー+3.5)
+- **BLITZ ×1追加** — 約1,870円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=OSP+BLITZ+ブリッツ)
+- **HIGH PITCHER 3/8oz ×1追加** — 約1,430円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=OSP+ハイピッチャー+3%2F8oz)
+- **総額目安：約14,500〜15,000円**
+
+---
+
+## DAIWA縛り
+
+### 約5,000円パターン
+
+- **強い巻き：STEEZ Spinnerbait 3/8oz ×1** — 約1,320円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=DAIWA+STEEZ+スピナーベイト+3%2F8oz)
+- **シャローサーチ：PEANUT SR ×1** — 約935円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダイワ+ピーナッツ+SR)
+- **弱い巻き：STEEZ STIRRING SHAD 2.8 ×1袋** — 約715円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダイワ+STEEZ+STIRRING+SHAD+2.8)
+- **フィネス：STEEZ FINESSE STRAIGHT 4.3 ×1袋** — 約715円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダイワ+STEEZ+フィネスストレート+4.3)
+- **ジグヘッド：1.8〜2.7g ×1袋** — 約500円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=バス+ジグヘッド+1.8g+2.7g)
+- **マス針：#4 ×1袋** — 約350円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=バス+マス針+4)
+- **DSシンカー：2.7g ×1袋** — 約450円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダウンショットシンカー+2.7g)
+- **合計目安：約4,985円**
+
+**使う順番：STEEZ Spinnerbait → PEANUT SR → STIRRING SHAD → FINESSE STRAIGHT**
+
+### 約10,000円パターン
+
+5,000円構成に追加する。
+
+- **強い巻き色違い：STEEZ Spinnerbait 3/8oz ×1追加** — 約1,320円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=DAIWA+STEEZ+スピナーベイト+3%2F8oz)
+- **弱いハードベイト：STEEZ SILENT SHAD 54SP SR ×1** — 約1,540円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダイワ+STEEZ+サイレントシャッド+54SP+SR)
+- **クランク色違い：PEANUT SR ×1追加** — 約935円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダイワ+ピーナッツ+SR)
+- **強めの巻き：STEEZ COVER CHATTER 3/8oz ×1** — 約1,210円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダイワ+STEEZ+カバーチャター+3%2F8oz)
+- **弱い巻き色違い：STEEZ STIRRING SHAD 2.8 ×1袋追加** — 約715円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダイワ+STEEZ+STIRRING+SHAD+2.8)
+- **総額目安：約9,700〜10,000円**
+
+### 約15,000円パターン
+
+10,000円構成に追加する。
+
+- **強い巻き予備：STEEZ Spinnerbait 3/8oz ×1追加** — 約1,320円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=DAIWA+STEEZ+スピナーベイト+3%2F8oz)
+- **フィネス色違い：STEEZ FINESSE STRAIGHT 4.3 ×1袋追加** — 約715円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダイワ+STEEZ+フィネスストレート+4.3)
+- **少し深いクランク：PEANUT DR ×1** — 約935円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダイワ+ピーナッツ+DR)
+- **深めのシャッド：STEEZ SILENT SHAD 54SP MR ×1** — 約1,540円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダイワ+STEEZ+サイレントシャッド+54SP+MR)
+- **弱い巻きサイズ違い：STEEZ STIRRING SHAD 3.3 ×1袋** — 約715円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダイワ+STEEZ+STIRRING+SHAD+3.3)
+- **総額目安：約14,500〜15,200円**
+
+---
+
 ## 1. クランクベイト
 
 ### DAIWA ピーナッツ
@@ -268,7 +382,6 @@
 
 ### O.S.P ハイピッチャーMAX 3/8oz
 ![Pasted image 20260830093912.png](assets/柳川/Pasted%20image%2020260830093912.png)
-
 
 - 用途：風、濁り、広範囲のサーチ
 - 特徴：通常版より一回り大きく、強くアピールしながらゆっくり引きやすい
