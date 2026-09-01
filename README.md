@@ -448,7 +448,7 @@
 - 本命：ワッキー掛けダウンショット
 - 操作：激しくシェイクせず、ゆっくりズル引き＋ステイ
 
-![Pasted image 20260829221936.png](assets/柳川/Pasted%20image%2020260829211936.png)
+![Pasted image 20260829221936.png](assets/柳川/Pasted%20image%2020260829221936.png)
 
 [Amazonで確認](https://www.amazon.co.jp/s?k=ケイテック+ライブインパクト+3インチ)
 
