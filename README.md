@@ -107,6 +107,16 @@
 
 ## O.S.P縛り
 
+**メーカー公式写真（この構成で使う主力）**
+
+<p>
+<a href="https://www.o-s-p.net/products/high-pitcher/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_highpitcher1.jpg" alt="O.S.P HIGH PITCHER" width="125"></a>
+<a href="https://www.o-s-p.net/products/blitz/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_blitz.jpg" alt="O.S.P BLITZ" width="125"></a>
+<a href="https://www.o-s-p.net/products/hp-shadtail/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_hpshadtail.jpg" alt="O.S.P HP Shadtail" width="125"></a>
+<a href="https://www.o-s-p.net/products/dolivebeaver/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/dolivebeaver_main.jpg" alt="O.S.P DoLive Beaver" width="125"></a>
+<a href="https://www.o-s-p.net/products/dolivecrawler/"><img src="https://www.o-s-p.net/wp/wp-content/uploads/img_products_main_dolivecrawler2.jpg" alt="O.S.P DoLive Crawler" width="125"></a>
+</p>
+
 ### 約5,000円
 
 **HIGH PITCHER 3/8oz → HP Shadtail 3.1＋ジグヘッド → DoLive Crawler 3.5＋ワッキーDS → 移動**
@@ -120,6 +130,17 @@
 10,000円構成を基本に、HIGH PITCHER / BLITZ / HP Shadtail / DoLive Crawlerの**色違い・ロスト予備**を追加する。リグ種類は増やさない。
 
 ## DAIWA縛り
+
+**メーカー公式写真（この構成で使う主力）**
+
+<p>
+<a href="https://www.daiwa.com/jp/product/st35v1t"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/resources/fishing/item/lure/bass_le/steez_sb/tsuika_st35v1t/STEEZ_SPINNER_BAIT_38OZ_TW_SILVER_WHITE.jpg?rev=adc58f5745994019858fa646d90eee8e" alt="DAIWA STEEZ Spinnerbait" width="110"></a>
+<a href="https://www.daiwa.com/jp/product/op4em6r"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/resources/fishing/item/lure/bass_le/peanut/__icsFiles/afieldfile/2022/02/07/Peanut_SR_SexyShad.jpg?rev=1344e34b208947b8abbe33685a8b3054" alt="DAIWA PEANUT" width="110"></a>
+<a href="https://www.daiwa.com/jp/product/4zpn4vq"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/001_product_photo/lure/001/4zpn4vq_STEEZ-SILENT-SHAD/main/STEEZ_SILENT_SHAD_54SP_SR_AKABANE_SHAD_4550133404993.jpg?rev=c7acd0eccfa9401fb5f8dbaa044b2d57" alt="DAIWA STEEZ SILENT SHAD" width="110"></a>
+<a href="https://www.daiwa.com/jp/product/2023/05/09/08/16/ahsnwur"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/resources/fishing/item/lure/bass_le/steez_stirring_shad/__icsFiles/afieldfile/2022/12/07/SteezStirringShad_28_MagicShad.jpg?rev=e9eadcbf09a44d7da074e3ac13c6465e" alt="DAIWA STEEZ STIRRING SHAD" width="110"></a>
+<a href="https://www.daiwa.com/jp/product/kdqc8dj"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/001_product_photo/lure/002/kdqc8dj_STEEZ-FINESSE-STRAIGHT/STEEZ_FINESSE_STRAIGHT_4%2C-d-%2C3_GREEN_PUMPKIN_4550133559884.jpg?rev=8dcbe960f91b4c309353a9ec9a6c77a3" alt="DAIWA STEEZ FINESSE STRAIGHT" width="110"></a>
+<a href="https://www.daiwa.com/jp/product/i9wqiap"><img src="https://390386bd-1bf0-4900-aa10-cac1793c9a23-afd-dqdkdpcqgcc6hahm.z01.azurefd.net/-/media/Project/globeride/daiwa_com_jp/001_product_photo/lure/002/i9wqiap_STEEZ_COVER_CHATTER/25STEEZ_COVER_CHATTER_3-8_BLACK_4550133578205.jpg?rev=ad3882c9540f450e80804569afb930ac" alt="DAIWA STEEZ COVER CHATTER" width="110"></a>
+</p>
 
 ### 約5,000円
 
@@ -138,6 +159,16 @@
 - リグ種類は5,000円構成から増やさず、レンジ・サイズ・カラーの対応幅を増やす
 
 ## KEITECH縛り
+
+**メーカー公式写真（この構成で使う主力）**
+
+<p>
+<a href="https://www.keitechusa.com/catalog/fat-swing-impact.html"><img src="https://www.keitechusa.com/catalog/images/Fat-Swing-Impact.jpg" alt="KEITECH Swing Impact FAT" width="125"></a>
+<a href="https://www.keitechusa.com/catalog/easy-shiner.html"><img src="https://www.keitechusa.com/catalog/images/Easy-Shiner.jpg" alt="KEITECH Easy Shiner" width="125"></a>
+<a href="https://www.keitechusa.com/catalog/swing-impact.html"><img src="https://www.keitechusa.com/catalog/images/Swing-Impact.jpg" alt="KEITECH Swing Impact" width="125"></a>
+<a href="https://www.keitechusa.com/catalog/crazy-flapper.html"><img src="https://www.keitechusa.com/catalog/images/Crazy-Flapper.jpg" alt="KEITECH Crazy Flapper" width="125"></a>
+<a href="https://www.keitechusa.com/catalog/live-impact.html"><img src="https://www.keitechusa.com/catalog/images/Live-Impact.jpg" alt="KEITECH Live Impact" width="125"></a>
+</p>
 
 ### 約5,000円
 
