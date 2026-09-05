@@ -54,6 +54,15 @@
 
 **SV-3 3/8oz DW → SHADING-X R 62 → HAZEDONG SHAD 3＋ジグヘッド → TOURNAMENT CRAWLER 3.5＋ワッキーDS → 移動**
 
+**メーカー公式写真（ローテーション順）**
+
+<p>
+<a href="https://www.megabass.co.jp/site/products/sv-3/"><img src="https://www.megabass.co.jp/site/wp-content/uploads/2021/01/main_001_sv-3.jpg" alt="Megabass SV-3" width="140"></a>
+<a href="https://www.megabass.co.jp/site/products/shading-x_r_62/"><img src="https://www.megabass.co.jp/site/wp-content/uploads/2023/01/main_001_shading-x_r_62.jpg" alt="Megabass SHADING-X R 62" width="140"></a>
+<a href="https://www.megabass.co.jp/site/products/hazedong-shad-3inch/"><img src="https://www.megabass.co.jp/site/wp-content/uploads/2013/08/main_001_hazedong_shad_3vios_mineral-2-1.jpg" alt="Megabass HAZEDONG SHAD 3inch" width="140"></a>
+<a href="https://www.megabass.co.jp/site/products/tournament_crawler/"><img src="https://www.megabass.co.jp/site/wp-content/uploads/2021/01/main_001_tournament_crawler.jpg" alt="Megabass TOURNAMENT CRAWLER" width="140"></a>
+</p>
+
 - **強い巻き**：SV-3 3/8oz DW
 - **弱いハードベイト**：SHADING-X R 62
 - **弱いソフトベイト**：HAZEDONG SHAD 3＋ジグヘッド **1.8〜2.7g**
@@ -68,6 +77,18 @@
 5,000円構成に、トップ・シャロークランク・カバー/ボトムを追加する。
 
 **DOG-X Jr. COAYU → SV-3 → GRIFFON BF SR-X → SHADING-X R 62 → HAZEDONG SHAD 3 → BOTTLE SHRIMP 3フリーリグ → TOURNAMENT CRAWLER 3.5ワッキーDS → 移動**
+
+**メーカー公式写真（ローテーション順）**
+
+<p>
+<a href="https://www.megabass.co.jp/site/products/dog-x-jr-coayu-2/"><img src="https://www.megabass.co.jp/site/wp-content/uploads/2013/07/main_001_dog-x_jr.coayu_2.jpg" alt="Megabass DOG-X Jr. COAYU" width="105"></a>
+<a href="https://www.megabass.co.jp/site/products/sv-3/"><img src="https://www.megabass.co.jp/site/wp-content/uploads/2021/01/main_001_sv-3.jpg" alt="Megabass SV-3" width="105"></a>
+<a href="https://www.megabass.co.jp/site/products/griffon_bf_sr-x/"><img src="https://www.megabass.co.jp/site/wp-content/uploads/2021/01/main_001_griffon_bait_finesse_sr-x.jpg" alt="Megabass GRIFFON Bait Finesse SR-X" width="105"></a>
+<a href="https://www.megabass.co.jp/site/products/shading-x_r_62/"><img src="https://www.megabass.co.jp/site/wp-content/uploads/2023/01/main_001_shading-x_r_62.jpg" alt="Megabass SHADING-X R 62" width="105"></a>
+<a href="https://www.megabass.co.jp/site/products/hazedong-shad-3inch/"><img src="https://www.megabass.co.jp/site/wp-content/uploads/2013/08/main_001_hazedong_shad_3vios_mineral-2-1.jpg" alt="Megabass HAZEDONG SHAD 3inch" width="105"></a>
+<a href="https://www.megabass.co.jp/site/products/bottle-shrimp/"><img src="https://www.megabass.co.jp/site/wp-content/uploads/2021/01/main_001_bottle_shrimp-1.jpg" alt="Megabass BOTTLE SHRIMP" width="105"></a>
+<a href="https://www.megabass.co.jp/site/products/tournament_crawler/"><img src="https://www.megabass.co.jp/site/wp-content/uploads/2021/01/main_001_tournament_crawler.jpg" alt="Megabass TOURNAMENT CRAWLER" width="105"></a>
+</p>
 
 - **トップ**：DOG-X Jr. COAYU
 - **強い巻き**：SV-3 3/8oz DW
