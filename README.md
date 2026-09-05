@@ -430,6 +430,49 @@
 
 > フックサイズ・シンカー重量・ライン仕様は **「リグ・ライン・小物【正本】」を優先**する。ここでは購入数量と価格確認を主目的とする。
 
+## Megabass縛り
+
+### 約5,000円パターン
+
+- **強い巻き：Megabass SV-3 3/8oz DW ×1** — 約1,200円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=メガバス+SV-3+3%2F8oz+DW)
+- **弱いハードベイト：Megabass SHADING-X R 62 ×1** — 約1,800円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=メガバス+SHADING-X+R+62)
+- **弱いソフトベイト：Megabass HAZEDONG SHAD 3 ×1袋** — 約800円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=メガバス+HAZEDONG+SHAD+3)
+- **フィネス：Megabass TOURNAMENT CRAWLER 3.5 ×1袋** — 約800円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=メガバス+TOURNAMENT+CRAWLER+3.5)
+- **ジグヘッド 1.8〜2.7g ×1袋** — 約500円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=バス+ジグヘッド+1.8g+2.7g)
+- **マス針 #4 ×1袋** — 約350円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=バス+マス針+4)
+- **DSシンカー 2.7g ×1袋** — 約450円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=ダウンショットシンカー+2.7g)
+- **合計目安：約5,900円前後**
+
+**使う順番：SV-3 → SHADING-X R 62 → HAZEDONG SHAD 3 → TOURNAMENT CRAWLER 3.5 → 移動**
+
+### 約10,000円パターン【本命】
+
+5,000円構成に追加する。
+
+- **トップ：Megabass DOG-X Jr. COAYU ×1** — 約1,800円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=メガバス+DOG-X+Jr+COAYU)
+- **シャロークランク：Megabass GRIFFON BF SR-X ×1** — 約1,600円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=メガバス+GRIFFON+BF+SR-X)
+- **カバー・ボトム：Megabass BOTTLE SHRIMP 3 ×1袋** — 約900円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=メガバス+BOTTLE+SHRIMP+3)
+- **オフセットフック #1/0〜#2/0 ×1袋** — 約400円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=オフセットフック+1%2F0+2%2F0+バス)
+- **フリーリグシンカー 3.5g / 5g ×1袋** — 約500円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=フリーリグシンカー+3.5g+5g)
+- **小型スナップ #0〜#1 ×1袋** — 約300円  
+  [Amazonで確認](https://www.amazon.co.jp/s?k=バス+スナップ+0+1)
+- **総額目安：約11,000〜12,000円**
+
+**使う順番：DOG-X Jr. → SV-3 → GRIFFON BF SR-X → SHADING-X R 62 → HAZEDONG SHAD 3 → BOTTLE SHRIMP 3 → TOURNAMENT CRAWLER 3.5 → 移動**
+
+---
 
 ## 3メーカー混成最強【今回の柳川向け推奨】
 
